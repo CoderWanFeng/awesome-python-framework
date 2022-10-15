@@ -1,0 +1,71 @@
+import hashlib
+import configparser
+import os
+
+from django.utils.deprecation import MiddlewareMixin
+
+from ApiServer import settings
+from api.utils import httpback
+from api.utils.httpback import HttpCode
+
+
+class InitMiddle(MiddlewareMixin):
+    def process_request(self,request):
+        path = request.path_info
+        if path == "/api/zhuche":
+            pass
+        else:
+            if settings.INITCHECK == "istactive":
+                pass
+            else:
+                return httpback.result(code=HttpCode.notregister,message="系统未注册")
+        # return HttpResponse ("请求频率过快，请稍后重试", status=503)
+    # def process_response(self, request, response):
+    #     print ('走了')
+    #     return response
+def getHostid():
+    import uuid
+    node = uuid.getnode ( )
+    mac = uuid.UUID (int=node).hex[-12:]
+    hostid = hashlib.md5 ((mac + '十年寒窗无人问').encode (encoding='UTF-8')).hexdigest ( )
+    return hostid
+
+def getLicense():
+    curpath = os.path.dirname (os.path.realpath (__file__))  # 当前文件路径
+    inipath = os.path.join (curpath, "test_config.ini")
+    conf = configparser.ConfigParser ( )
+    # 读内容
+    conf.read (inipath, encoding="utf-8")
+    return conf.get ("hostid_conf", "license")
+
+def putLicense(license):
+    try :
+        curpath = os.path.dirname (os.path.realpath (__file__))  # 当前文件路径
+        inipath = os.path.join (curpath, "test_config.ini")
+        conf = configparser.ConfigParser ( )
+        # 读内容再写
+        conf.read (inipath, encoding="utf-8")
+        conf.set ("hostid_conf", "license", license)
+        conf.write (open (inipath, "r+", encoding="utf-8"))
+    except Exception:
+        return False
+    return True
+
+def init(license):
+    hostid = getHostid()
+    a = hashlib.md5 ((hostid + 'liu008').encode (encoding='UTF-8')).hexdigest()
+    b = hashlib.md5((a+'都是寒门苦命人，你不讲武德').encode(encoding='UTF-8')).hexdigest()
+    if b == license:
+        #设置全局变量
+        settings.INITCHECK = "istactive"
+        return True
+    else:
+        return False
+def startInit():
+    license = getLicense()
+    init(license)
+# 读取配置文件变量
+# def global_settings():
+#     return  {"INITCHECK":settings.INITCHECK}
+# settings.INITCHECK = "istactive"
+# print(settings.INITCHECK)
