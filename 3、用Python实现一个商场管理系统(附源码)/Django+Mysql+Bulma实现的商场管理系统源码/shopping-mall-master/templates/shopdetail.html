@@ -1,0 +1,33 @@
+{% extends 'banner.html' %} {% block title %}
+<title>商品信息</title>
+{% endblock %}{% block login %}{% if value != '' %}
+<a href="/login">
+    <button class="button is-danger is-light">{{ name }}</button>
+</a>
+{% else %}
+<a href="/login"><button class="button is-danger is-light">商家登录</button></a> {% endif %}{% endblock %}{% block content %}
+<div style="margin: 20px;">
+    <div class="columns is-multiline">
+        {% for g in goods %}
+        <div class="column is-one-fifth">
+            <div class="card">
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        {% if g.img == "" %}
+                        <img src="https://bulma.zcopy.site/images/placeholders/1280x960.png" alt="Placeholder image"> {% else %}
+                        <img src="{{ g.img }}" alt="Placeholder image">{% endif %}
+                    </figure>
+                </div>
+                <div class="card-content">
+                    <div class="content">
+                        <h4 class="title is-4">{{ g.name }}</h4>
+                        <p>{{ g.detail }}</p>
+                        <button class="button is-danger">￥{{ g.price }}</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

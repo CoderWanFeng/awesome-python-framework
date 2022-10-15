@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="Shortcut Icon" href={% static 'img/favicon.png' %} type="image/x-icon" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"> {% block title %}
+    <title>Document</title>
+    {% endblock %}
+    <style>
+        @font-face {
+            font-family: "tzy";
+            src: url("https://npm.elemecdn.com/satoing@1.0.0/ZhuZiAWan.ttf");
+            font-weight: normal;
+            font-style: normal;
+        }
+        
+        body {
+            font-family: tzy;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="columns" style="background-color:crimson;margin-bottom: 0px;margin-top: 0px;">
+        <div class="column is-one-third" style="margin-top:3px ;margin-left: 3px;">
+            <p class="subtitle is-1" style="color:gold;">兴盛商场</p>
+        </div>
+        <div class="column is-one-third" style="margin-top:3px ;">
+            <div class="columns">
+                <div class="column">
+                    <a href="/">
+                        <div class="box" style="font-size: 18px;">首页</div>
+                    </a>
+                </div>
+                <div class="column">
+                    <a href="/shoplist">
+                        <div class="box" style="font-size: 18px;">购物</div>
+                    </a>
+                </div>
+                <div class="column">
+                    <a href="/manage/userinfo">
+                        <div class="box" style="font-size: 18px;">商家界面</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="column is-offset-2" style="margin-top:15px ;">
+            <div class="columns">
+                <div class="column">
+                    {% block login %}
+                    <a href="/login">
+                        <button class="button is-danger is-light">商家登录</button>
+                    </a>
+                    {% endblock %}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% block content %} {% endblock %}
+</body>
+
+</html>

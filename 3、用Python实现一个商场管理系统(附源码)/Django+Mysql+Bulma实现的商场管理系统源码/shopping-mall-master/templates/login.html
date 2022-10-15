@@ -1,0 +1,38 @@
+{% extends 'banner.html' %} {% block title %}
+<title>登录</title>
+{% endblock %} {% block content %}
+<div style="height: 50px;"></div>
+<div style="margin:20px;">
+    <div class="columns is-centered">
+        <div class="column is-narrow">
+            <div class="box" style="width: 300px;">
+                {% if value == '' %}
+                <form method='post' action='/login'>
+                    <div class="field">
+                        <label class="label">用户名</label>
+                        <div class="control">
+                            <input class="input" name="uname" type="text" placeholder="e.g 张三">
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label class="label">密码</label>
+                        <div class="control">
+                            <input class="input" name="pwd" type="password" placeholder="e.g. 123">
+                        </div><br>
+                        <span class="columns is-centered">
+                            <input class="button is-success is-light" type='submit' value='登录'>
+                        </span>
+                    </div>
+                </form>
+                {% else %}
+                <div style="height: 10px;"></div>
+                <p>欢迎用户：{{ name }}</p>
+                <a href="/">
+                    <button class="button is-success">点击跳转到首页</button>
+                </a> {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

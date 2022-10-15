@@ -1,0 +1,10 @@
+{% extends 'banner.html' %} {% block title %}
+<title>首页</title>
+{% endblock %} {% block login %}{% if value != '' %}
+<a href="/login">
+    <button class="button is-danger is-light">{{ name }}</button>
+</a>
+{% else %}
+<a href="/login"><button class="button is-danger is-light">商家登录</button></a> {% endif %}{% endblock %} {% block content %}
+<img src="../static/img/cover.jpg"></img>
+{% endblock %}

@@ -1,0 +1,47 @@
+{% extends 'banner.html' %} {% block title %}
+<title>充值</title>
+{% endblock %} {% block login %}{% if value != '' %}
+<a href="/login">
+    <button class="button is-danger is-light">{{ mer.name }}</button>
+</a>
+{% else %}
+<a href="/login"><button class="button is-danger is-light">商家登录</button></a> {% endif %}{% endblock %} {% block content %}
+<div class="notification is-info">
+    <div class="columns is-centered">
+        <div class="box">
+            <p>您本月需要缴费<mark>{{ money }}</mark>元</p>
+            <p>您目前的余额为<mark>{{ mer.balance }}</mark>元</p>
+        </div>
+    </div>
+</div>
+<div class="columns is-centered">
+    <div class="box">
+        <h1 class="subtitle">充值金额</h1>
+        <form method="POST" action="charge">
+            <div class="field has-addons">
+                <div class="control is-expanded" style="width: 200px;">
+                    <div class="select is-fullwidth">
+                        <select name="money">
+                            <option value="1000">1000元</option>
+                            <option value="2000">2000元</option>
+                            <option value="3000">3000元</option>
+                            <option value="5000">5000元</option>
+                            <option value="7000">7000元</option>
+                            <option value="10000">10000元</option>
+                            <option value="15000">15000元</option>
+                            <option value="20000">20000元</option>
+                            <option value="25000">25000元</option>
+                            <option value="30000">30000元</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="control">
+                    <button type="submit" class="button is-primary">确认</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+{% endblock %}

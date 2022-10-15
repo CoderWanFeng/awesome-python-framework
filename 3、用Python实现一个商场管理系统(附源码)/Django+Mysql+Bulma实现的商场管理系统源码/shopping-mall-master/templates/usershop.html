@@ -1,0 +1,32 @@
+{% extends 'banner.html' %} {% block title %}
+<title>商铺管理</title>
+{% endblock %} {% block login %}{% if value != '' %}
+<a href="/login">
+    <button class="button is-danger is-light">{{ mer.name }}</button>
+</a>
+{% else %}
+<a href="/login"><button class="button is-danger is-light">商家登录</button></a> {% endif %}{% endblock %} {% block content %}
+<div style="height: 100px;"></div>
+<div class="columns is-centered">
+    <table class="table is-striped is-bordered is-hoverable">
+        <tr>
+            <th>商铺名称</th>
+            <th>商铺种类</th>
+            <th>商铺地段</th>
+            <th>本月水费</th>
+            <th>本月电费</th>
+            <th>本月租金</th>
+        </tr>
+        {% for shop in shops %}
+        <tr>
+            <td>{{ shop.name }}</td>
+            <td>{{ shop.type.typename }}</td>
+            <td>{{ shop.market.pos }}</td>
+            <td>{{ shop.type.paywater.money }}</td>
+            <td>{{ shop.type.payelec.money }}</td>
+            <td>{{ shop.market.rent.price }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+{% endblock %}

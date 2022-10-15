@@ -1,0 +1,49 @@
+{% extends 'banner.html' %} {% block title %}
+<title>商户信息</title>
+{% endblock %} {% block login %}{% if value != '' %}
+<a href="/login">
+    <button class="button is-danger is-light">{{ mer.name }}</button>
+</a>
+{% else %}
+<a href="/login"><button class="button is-danger is-light">商家登录</button></a> {% endif %}{% endblock %} {% block content %}
+<div style="height: 100px;"></div>
+<div class="columns is-centered">
+    <table class="table is-striped is-bordered is-hoverable">
+        <tr>
+            <td>商户名</td>
+            <td>{{ mer.name }}</td>
+        </tr>
+        <tr>
+            <td>用户名</td>
+            <td>{{ mer.username }}</td>
+        </tr>
+        <tr>
+            <td>联系电话</td>
+            <td>{{ mer.tel }}</td>
+        </tr>
+        <tr>
+            <td>余额</td>
+            <td>{{ mer.balance }}</td>
+        </tr>
+        <tr>
+            <td>我的商铺</td>
+            <td><a href="myshop">
+                查看
+            </a></td>
+        </tr>
+        <tr>
+            <td>操作</td>
+            <td>
+                <a href="charge">
+                    <button class="button is-primary">充值</button>
+
+                </a>
+                <a href="rentshop">
+                    <button class="button is-link">租商铺</button>
+                </a>
+            </td>
+        </tr>
+        </tr>
+    </table>
+</div>
+{% endblock %}

@@ -1,0 +1,39 @@
+{% extends 'banner.html' %} {% block title %}
+<title>商铺信息确认</title>
+{% endblock %} {% block login %}{% if value != '' %}
+<a href="/login">
+    <button class="button is-danger is-light">{{ name }}</button>
+</a>
+{% else %}
+<a href="/login"><button class="button is-danger is-light">商家登录</button></a> {% endif %}{% endblock %} {% block content %}
+<div style="height: 50px;"></div>
+<div class="columns is-centered">
+    <div class="box">
+        <h1 class="subtitle">确认信息</h1>
+        <form method="POST" action="rentshop?shop_id={{ id }}">
+            <input class="input" name="name" type="text" placeholder="商铺名称">
+            <div style="height: 20px;"></div>
+            <div class="field has-addons">
+                <div class="control is-expanded" style="width: 200px;">
+                    <div class="select is-fullwidth">
+                        <select name="type">
+                            <option value="品牌服装">品牌服装</option>
+                            <option value="休闲零食">休闲零食</option>
+                            <option value="恰饭管饱">恰饭管饱</option>
+                            <option value="美容美发">美容美发</option>
+                            <option value="购物百货">购物百货</option>
+                            <option value="娱乐聚会">娱乐聚会</option>
+                            <option value="电影院">电影院</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="control">
+                    <button type="submit" class="button is-primary">确认</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+{% endblock %}
