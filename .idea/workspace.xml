@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a18e33-9c8f-4d7b-a5c0-2a421a0c2d7a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/celery/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/celery/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/celery/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/celery/task.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/001/1.1-����Excel�ļ��������ݣ�.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/001/1.2-����Excel�ļ��������ݣ�.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/001/1.3-����Excel�ļ��������ݣ���ID��Ϊ������.py" beforeDir="false" />
@@ -64,25 +60,6 @@
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/029/29.1-����SQL.Server���ݿ�.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/030/30.1-���Ӽ�����.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/˵��.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/apps/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/apps/app1/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/apps/app1/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/apps/app1/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/apps/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/apps/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/apps/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/flask_demo/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/flask_demo/apps/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/flask_demo/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/flask_demo/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/insert_column.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/read_excel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/std-lib/logging.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/std-lib/random.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/std-lib/str.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
