@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4a18e33-9c8f-4d7b-a5c0-2a421a0c2d7a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/001/1.1-����Excel�ļ��������ݣ�.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/001/1.2-����Excel�ļ��������ݣ�.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/001/1.3-����Excel�ļ��������ݣ���ID��Ϊ������.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/002/2.1-��ȡExcel�ļ�.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/002/2.2-��ȡExcel�ļ�����λ��.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/002/2.3-��ȡExcel�ļ����п��У�.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/002/2.4-��ȡExcel�ļ����ޱ��⣩.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/002/2.5-�����ȡ�������µ�index����.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/003/3.1-pd.Series���ֵ�.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/003/3.2-����pd,Series.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/003/3.3-��Series��ӵ�DataFrame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/004��005/�Զ����.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/006/6.1-������.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/007/7.1-��������.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/008/8.1-����ɸѡ�����.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/009/9.1-��״ͼ��pandas��.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/009/9.2-��״ͼ��matplotlib��.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/010/10.1-������״ͼ.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/011/11.1-������״ͼ.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/012/12.1-��ͼ.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/013/13.1-����ͼ�͵�������ͼ.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/014��015/14.1-ɢ��ͼ.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/014��015/15.1-ֱ��ͼ.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/014��015/15.2-�ܶ�ͼ.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/014��015/15.3-�����.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/016/16.1-���������merge��.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/016/16.2-���������join��.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/017/17.1-����У��.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/018/18.1-���ݷ���.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/019/19.1-ƽ���֡��ܷ�.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/020/20.1-����ȥ��.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/020/20.2-�ҳ��ظ�����.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/021/21.1-��ת����.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/022/22.1-��ȡcsv�ļ��е�����.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/022/22.2-��ȡtsv�ļ��е�����.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/022/22.3-��ȡtxt�ļ��е�����.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/023/23.1-����͸�ӱ�.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/024/24.1-���Իع�.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/025��026/������ʽ.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/027/27.1-��׷�����ݣ��������ݣ�.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/027/27.2-��׷�����ݣ������ݣ�.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/027/27.3-���޸�����.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/027/27.4-�в�������.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/027/27.5-��ɾ������.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/027/27.6-�и�����ɾ��.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/028/28.1-�кϲ�����.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/028/28.2-��׷������.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/028/28.3-��ɾ������.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/028/28.4-�в�������.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/028/28.5-���޸�����.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/028/28.6-�и�����ɾ��.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/029/29.1-����SQL.Server���ݿ�.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/030/30.1-���Ӽ�����.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/˵��.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="程序员晚枫 &lt;1529577833@qq.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="project" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2FzODIftP1w5p83Rl8CNi3Bhxuo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/5、Python招聘岗位信息聚合系统（拥有爬虫爬取、数据分析、可视化、互动等功能）/WorkAggregation-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workplace\code\github\awesome-python-framework\5、Python招聘岗位信息聚合系统（拥有爬虫爬取、数据分析、可视化、互动等功能）\WorkAggregation-master" />
+      <recent name="D:\workplace\code\github\awesome-python-framework\3、用Python实现一个商场管理系统(附源码)" />
+      <recent name="D:\workplace\code\github\awesome-python-framework\2、Python+Django实现基于人脸识别的门禁管理系统【源码】" />
+      <recent name="D:\workplace\code\github\awesome-python-framework\1、合同系统" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4a18e33-9c8f-4d7b-a5c0-2a421a0c2d7a" name="Default Changelist" comment="" />
+      <created>1665491324725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665491324725</updated>
+      <workItem from="1665491326705" duration="1515000" />
+      <workItem from="1665572991255" duration="17000" />
+      <workItem from="1665820407605" duration="313000" />
+      <workItem from="1665820734144" duration="279000" />
+      <workItem from="1665842983343" duration="2077000" />
+      <workItem from="1665918278895" duration="42000" />
+      <workItem from="1665936640236" duration="32000" />
+      <workItem from="1665937811579" duration="863000" />
+    </task>
+    <task id="LOCAL-00001" summary="add 合同系统">
+      <created>1665820989225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665820989225</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Python+Django实现基于人脸识别的门禁管理系统【源码】">
+      <created>1665843815711</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665843815711</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add 3、用Python实现一个商场管理系统(附源码)">
+      <created>1665845295695</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665845295695</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add 人脸门禁👉https://mp.weixin.qq.com/s/98X3nl-elyi7MYsU_uCeqA">
+      <created>1665938231647</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665938231647</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add 商场管理👉https://mp.weixin.qq.com/s/0FR4o2ddPe-9C2ijlnTuAg">
+      <created>1665938310394</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665938310394</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add 自动化报表👉https://mp.weixin.qq.com/s/RfG502Hez7UttfHMndc4eA">
+      <created>1665938424362</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665938424362</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add 5、Python招聘岗位信息聚合系统（拥有爬虫爬取、数据分析、可视化、互动等功能）">
+      <created>1665938529192</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665938529192</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add 合同系统" />
+    <MESSAGE value="add Python+Django实现基于人脸识别的门禁管理系统【源码】" />
+    <MESSAGE value="add 3、用Python实现一个商场管理系统(附源码)" />
+    <MESSAGE value="add 人脸门禁https://mp.weixin.qq.com/s/98X3nl-elyi7MYsU_uCeqA" />
+    <MESSAGE value="add 商场管理https://mp.weixin.qq.com/s/0FR4o2ddPe-9C2ijlnTuAg" />
+    <MESSAGE value="add 自动化报表https://mp.weixin.qq.com/s/RfG502Hez7UttfHMndc4eA" />
+    <MESSAGE value="add 5、Python招聘岗位信息聚合系统（拥有爬虫爬取、数据分析、可视化、互动等功能）" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 5、Python招聘岗位信息聚合系统（拥有爬虫爬取、数据分析、可视化、互动等功能）" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1902" y="-245" key="CommitChangelistDialog2" timestamp="1665938898799">
+      <screen x="-1920" y="-245" width="1920" height="1032" />
+    </state>
+    <state x="-1902" y="-245" key="CommitChangelistDialog2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665938898799" />
+    <state x="14" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1665880479620" />
+    <state x="147" y="64" key="DiffContextDialog" timestamp="1665820747738">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="147" y="64" key="DiffContextDialog/0.0.1536.816@0.0.1536.816" timestamp="1665820747738" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1665845046287">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1665845046287" />
+    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2" timestamp="1665938873757">
+      <screen x="-1920" y="-245" width="1920" height="1032" />
+    </state>
+    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665938873757" />
+    <state x="361" y="122" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1665880484336" />
+    <state x="366" y="92" width="803" height="632" key="find.popup" timestamp="1665820811965">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="366" y="92" width="803" height="632" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1665820811965" />
+    <state x="406" y="181" key="git4idea.merge.GitPullDialog" timestamp="1665820481815">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="406" y="181" key="git4idea.merge.GitPullDialog/0.0.1536.816@0.0.1536.816" timestamp="1665820481815" />
+  </component>
+</project>
