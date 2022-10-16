@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a18e33-9c8f-4d7b-a5c0-2a421a0c2d7a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/celery/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/celery/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/celery/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/celery/task.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/001/1.1-����Excel�ļ��������ݣ�.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/001/1.2-����Excel�ļ��������ݣ�.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/001/1.3-����Excel�ļ��������ݣ���ID��Ϊ������.py" beforeDir="false" />
@@ -13,6 +17,8 @@
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/003/3.1-pd.Series���ֵ�.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/003/3.2-����pd,Series.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/003/3.3-��Series��ӵ�DataFrame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/004��005/Books.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/004��005/Output.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/004��005/�Զ����.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/006/6.1-������.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/007/7.1-��������.py" beforeDir="false" />
@@ -27,6 +33,7 @@
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/014��015/15.1-ֱ��ͼ.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/014��015/15.2-�ܶ�ͼ.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/014��015/15.3-�����.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/014��015/home_data.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/016/16.1-���������merge��.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/016/16.2-���������join��.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/017/17.1-����У��.py" beforeDir="false" />
@@ -40,6 +47,7 @@
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/022/22.3-��ȡtxt�ļ��е�����.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/023/23.1-����͸�ӱ�.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/024/24.1-���Իع�.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/025��026/Students.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/025��026/������ʽ.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/027/27.1-��׷�����ݣ��������ݣ�.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/027/27.2-��׷�����ݣ������ݣ�.py" beforeDir="false" />
@@ -56,6 +64,25 @@
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/029/29.1-����SQL.Server���ݿ�.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/030/30.1-���Ӽ�����.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/˵��.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/apps/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/apps/app1/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/apps/app1/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/apps/app1/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/apps/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/apps/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/apps/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/flask_demo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/flask_demo/apps/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/flask_demo/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/flask_demo/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas/insert_column.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas/read_excel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/std-lib/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/std-lib/random.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/std-lib/str.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +103,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="project" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,9 +118,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/5、Python招聘岗位信息聚合系统（拥有爬虫爬取、数据分析、可视化、互动等功能）/WorkAggregation-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -127,7 +155,7 @@
       <workItem from="1665842983343" duration="2077000" />
       <workItem from="1665918278895" duration="42000" />
       <workItem from="1665936640236" duration="32000" />
-      <workItem from="1665937811579" duration="863000" />
+      <workItem from="1665937811579" duration="1167000" />
     </task>
     <task id="LOCAL-00001" summary="add 合同系统">
       <created>1665820989225</created>
@@ -178,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665938529192</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="mv pandas课程代码 to course branch">
+      <created>1665938953260</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665938953260</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,13 +240,14 @@
     <MESSAGE value="add 商场管理https://mp.weixin.qq.com/s/0FR4o2ddPe-9C2ijlnTuAg" />
     <MESSAGE value="add 自动化报表https://mp.weixin.qq.com/s/RfG502Hez7UttfHMndc4eA" />
     <MESSAGE value="add 5、Python招聘岗位信息聚合系统（拥有爬虫爬取、数据分析、可视化、互动等功能）" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 5、Python招聘岗位信息聚合系统（拥有爬虫爬取、数据分析、可视化、互动等功能）" />
+    <MESSAGE value="mv pandas课程代码 to course branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="mv pandas课程代码 to course branch" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1902" y="-245" key="CommitChangelistDialog2" timestamp="1665938898799">
+    <state x="-1902" y="-245" key="CommitChangelistDialog2" timestamp="1665938952232">
       <screen x="-1920" y="-245" width="1920" height="1032" />
     </state>
-    <state x="-1902" y="-245" key="CommitChangelistDialog2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665938898799" />
+    <state x="-1902" y="-245" key="CommitChangelistDialog2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665938952232" />
     <state x="14" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1665880479620" />
     <state x="147" y="64" key="DiffContextDialog" timestamp="1665820747738">
       <screen x="0" y="0" width="1536" height="816" />
@@ -221,10 +257,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1665845046287" />
-    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2" timestamp="1665938873757">
+    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2" timestamp="1665938955351">
       <screen x="-1920" y="-245" width="1920" height="1032" />
     </state>
-    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665938873757" />
+    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665938955351" />
     <state x="361" y="122" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1665880484336" />
     <state x="366" y="92" width="803" height="632" key="find.popup" timestamp="1665820811965">
       <screen x="0" y="0" width="1536" height="816" />
