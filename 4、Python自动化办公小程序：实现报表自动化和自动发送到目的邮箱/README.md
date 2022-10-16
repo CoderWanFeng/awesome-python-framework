@@ -1,7 +1,5 @@
-# 百度云
+# 系统说明
 
-因为本项目的源码过大，因此放在百度云盘
+使用链接：https://mp.weixin.qq.com/s/RfG502Hez7UttfHMndc4eA
 
-链接：https://pan.baidu.com/s/1ByL6j-08oiuWfFb_MRPRog?pwd=0qzw 
-
-提取码：0qzw 
+> 另外一个自动化报表的项目：https://mp.weixin.qq.com/s/STSRuN9Q9NpETKdYQBmxqQ
