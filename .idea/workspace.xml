@@ -2,64 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a18e33-9c8f-4d7b-a5c0-2a421a0c2d7a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/001/1.1-����Excel�ļ��������ݣ�.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/001/1.2-����Excel�ļ��������ݣ�.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/001/1.3-����Excel�ļ��������ݣ���ID��Ϊ������.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/002/2.1-��ȡExcel�ļ�.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/002/2.2-��ȡExcel�ļ�����λ��.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/002/2.3-��ȡExcel�ļ����п��У�.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/002/2.4-��ȡExcel�ļ����ޱ��⣩.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/002/2.5-�����ȡ�������µ�index����.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/003/3.1-pd.Series���ֵ�.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/003/3.2-����pd,Series.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/003/3.3-��Series��ӵ�DataFrame.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/004��005/Books.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/004��005/Output.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/004��005/�Զ����.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/006/6.1-������.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/007/7.1-��������.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/008/8.1-����ɸѡ�����.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/009/9.1-��״ͼ��pandas��.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/009/9.2-��״ͼ��matplotlib��.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/010/10.1-������״ͼ.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/011/11.1-������״ͼ.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/012/12.1-��ͼ.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/013/13.1-����ͼ�͵�������ͼ.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/014��015/14.1-ɢ��ͼ.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/014��015/15.1-ֱ��ͼ.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/014��015/15.2-�ܶ�ͼ.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/014��015/15.3-�����.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/014��015/home_data.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/016/16.1-���������merge��.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/016/16.2-���������join��.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/017/17.1-����У��.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/018/18.1-���ݷ���.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/019/19.1-ƽ���֡��ܷ�.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/020/20.1-����ȥ��.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/020/20.2-�ҳ��ظ�����.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/021/21.1-��ת����.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/022/22.1-��ȡcsv�ļ��е�����.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/022/22.2-��ȡtsv�ļ��е�����.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/022/22.3-��ȡtxt�ļ��е�����.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/023/23.1-����͸�ӱ�.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/024/24.1-���Իع�.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/025��026/Students.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/025��026/������ʽ.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/027/27.1-��׷�����ݣ��������ݣ�.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/027/27.2-��׷�����ݣ������ݣ�.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/027/27.3-���޸�����.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/027/27.4-�в�������.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/027/27.5-��ɾ������.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/027/27.6-�и�����ɾ��.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/028/28.1-�кϲ�����.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/028/28.2-��׷������.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/028/28.3-��ɾ������.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/028/28.4-�в�������.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/028/28.5-���޸�����.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/028/28.6-�и�����ɾ��.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/029/29.1-����SQL.Server���ݿ�.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/030/30.1-���Ӽ�����.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/PandasVersusExcel-Code/˵��.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665938953260</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="delete wrong course">
+      <created>1665940366420</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665940366420</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,13 +168,14 @@
     <MESSAGE value="add 自动化报表https://mp.weixin.qq.com/s/RfG502Hez7UttfHMndc4eA" />
     <MESSAGE value="add 5、Python招聘岗位信息聚合系统（拥有爬虫爬取、数据分析、可视化、互动等功能）" />
     <MESSAGE value="mv pandas课程代码 to course branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="mv pandas课程代码 to course branch" />
+    <MESSAGE value="delete wrong course" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete wrong course" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1902" y="-245" key="CommitChangelistDialog2" timestamp="1665938952232">
+    <state x="-1902" y="-245" key="CommitChangelistDialog2" timestamp="1665940365437">
       <screen x="-1920" y="-245" width="1920" height="1032" />
     </state>
-    <state x="-1902" y="-245" key="CommitChangelistDialog2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665938952232" />
+    <state x="-1902" y="-245" key="CommitChangelistDialog2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665940365437" />
     <state x="14" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1665880479620" />
     <state x="147" y="64" key="DiffContextDialog" timestamp="1665820747738">
       <screen x="0" y="0" width="1536" height="816" />
@@ -234,15 +185,19 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1665845046287" />
-    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2" timestamp="1665938955351">
+    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2" timestamp="1665940369917">
       <screen x="-1920" y="-245" width="1920" height="1032" />
     </state>
-    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665938955351" />
+    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665940369917" />
     <state x="361" y="122" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1665880484336" />
     <state x="366" y="92" width="803" height="632" key="find.popup" timestamp="1665820811965">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="366" y="92" width="803" height="632" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1665820811965" />
+    <state x="-1206" y="-100" key="git4idea.branch.GitSmartOperationDialog" timestamp="1665945928170">
+      <screen x="-1920" y="-245" width="1920" height="1032" />
+    </state>
+    <state x="-1206" y="-100" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665945928170" />
     <state x="406" y="181" key="git4idea.merge.GitPullDialog" timestamp="1665820481815">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
