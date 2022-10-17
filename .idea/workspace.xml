@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a18e33-9c8f-4d7b-a5c0-2a421a0c2d7a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
       <workItem from="1665918278895" duration="42000" />
       <workItem from="1665936640236" duration="32000" />
       <workItem from="1665937811579" duration="1167000" />
-      <workItem from="1665988105086" duration="1740000" />
+      <workItem from="1665988105086" duration="2059000" />
     </task>
     <task id="LOCAL-00001" summary="add 合同系统">
       <created>1665820989225</created>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665989827958</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fix 软件的百度云">
+      <created>1665989852197</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665989852197</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,10 +205,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="fix 软件的百度云" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1902" y="-245" key="CommitChangelistDialog2" timestamp="1665989827290">
+    <state x="-1902" y="-245" key="CommitChangelistDialog2" timestamp="1665989851557">
       <screen x="-1920" y="-245" width="1920" height="1032" />
     </state>
-    <state x="-1902" y="-245" key="CommitChangelistDialog2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665989827290" />
+    <state x="-1902" y="-245" key="CommitChangelistDialog2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665989851557" />
     <state x="14" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1665880479620" />
     <state x="147" y="64" key="DiffContextDialog" timestamp="1665820747738">
       <screen x="0" y="0" width="1536" height="816" />
@@ -211,10 +218,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1665845046287" />
-    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2" timestamp="1665989830193">
+    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2" timestamp="1665989855432">
       <screen x="-1920" y="-245" width="1920" height="1032" />
     </state>
-    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665989830193" />
+    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665989855432" />
     <state x="361" y="122" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1665880484336" />
     <state x="366" y="92" width="803" height="632" key="find.popup" timestamp="1665820811965">
       <screen x="0" y="0" width="1536" height="816" />
