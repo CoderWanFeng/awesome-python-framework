@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4a18e33-9c8f-4d7b-a5c0-2a421a0c2d7a" name="Default Changelist" comment="">
+    <list default="true" id="8a40de8a-d9be-4a5b-9465-0f5dbf455ed9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/code/4、练习1：自动生成excel数据.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/code/2-setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/code/3、python&amp;pycharm，下载和安装.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
