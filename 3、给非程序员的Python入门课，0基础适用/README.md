@@ -6,7 +6,7 @@
 ## 课程资料
 以下链接，均为github地址，如果是国内用户打不开，请点击👉[国内资源，点我直达](https://gitee.com/CoderWanFeng/awesome-python-framework/tree/course/3%E3%80%81%E7%BB%99%E9%9D%9E%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84Python%E5%85%A5%E9%97%A8%E8%AF%BE%EF%BC%8C0%E5%9F%BA%E7%A1%80%E9%80%82%E7%94%A8)
 
-- [代码]https://github.com/CoderWanFeng/awesome-python-framework/tree/course/3%E3%80%81%E7%BB%99%E9%9D%9E%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84Python%E5%85%A5%E9%97%A8%E8%AF%BE%EF%BC%8C0%E5%9F%BA%E7%A1%80%E9%80%82%E7%94%A8/code)
+- [代码](https://github.com/CoderWanFeng/awesome-python-framework/tree/course/3%E3%80%81%E7%BB%99%E9%9D%9E%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84Python%E5%85%A5%E9%97%A8%E8%AF%BE%EF%BC%8C0%E5%9F%BA%E7%A1%80%E9%80%82%E7%94%A8/code)
 - [视频下载](https://mp.weixin.qq.com/s/NaDDcn-X8aruVHBvWmHXUQ)
 - [文档](https://github.com/CoderWanFeng/awesome-python-framework/tree/course/3%E3%80%81%E7%BB%99%E9%9D%9E%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84Python%E5%85%A5%E9%97%A8%E8%AF%BE%EF%BC%8C0%E5%9F%BA%E7%A1%80%E9%80%82%E7%94%A8/docs)
 - [拓展资料](https://github.com/CoderWanFeng/awesome-python-framework/tree/course/3%E3%80%81%E7%BB%99%E9%9D%9E%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84Python%E5%85%A5%E9%97%A8%E8%AF%BE%EF%BC%8C0%E5%9F%BA%E7%A1%80%E9%80%82%E7%94%A8/pdf)
