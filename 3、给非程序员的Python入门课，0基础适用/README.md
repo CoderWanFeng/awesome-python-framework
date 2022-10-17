@@ -21,7 +21,7 @@
     - python下载：https://www.python.org/downloads/
     - pycharm下载：https://www.jetbrains.com/pycharm/
     - 百度云：
-        - 链接：https://pan.baidu.com/s/1wCkLPzjTj_ZBfdTBFAis1Q?pwd=wfgy
+        - 链接：[点击直达](https://pan.baidu.com/s/1wCkLPzjTj_ZBfdTBFAis1Q?pwd=wfgy)
         - 提取码：wfgy
 
 4. [常见问题：pip](https://www.bilibili.com/video/BV1y54y1i78U?p=12)
