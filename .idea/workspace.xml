@@ -2,7 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a18e33-9c8f-4d7b-a5c0-2a421a0c2d7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/code/2-setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/docs/1、内容大纲.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/docs/2、软件安装.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/pdf/Python背记手册.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/pdf/pandas官方文档中文版.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/pdf/我的微信.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/pdf/读者群.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnacondaCourse-Code/ReadME.md" beforeDir="false" afterPath="$PROJECT_DIR$/2、Anaconda数据分析&amp;人工智能教程（100讲）/ReadME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/001/001-data-index.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/001/001-data-index.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/001/001-data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/001/001-data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/001/001.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/001/001.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/001/1.1-创建Excel文件（无数据）.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/001/1.1-创建Excel文件（无数据）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/001/1.2-创建Excel文件（有数据）.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/001/1.2-创建Excel文件（有数据）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/001/1.3-创建Excel文件（有数据，将ID作为索引）.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/001/1.3-创建Excel文件（有数据，将ID作为索引）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/002/2.1-读取Excel文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/002/2.1-读取Excel文件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/002/2.2-读取Excel文件（错位）.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/002/2.2-读取Excel文件（错位）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/002/2.3-读取Excel文件（有空行）.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/002/2.3-读取Excel文件（有空行）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/002/2.4-读取Excel文件（无标题）.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/002/2.4-读取Excel文件（无标题）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/002/2.5-解决读取会生成新的index问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/002/2.5-解决读取会生成新的index问题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/002/example-1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/002/example-1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/002/example-2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/002/example-2.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/002/example-add_header.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/002/example-add_header.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/002/example-empty_row.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/002/example-empty_row.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/002/example-malposition.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/002/example-malposition.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/002/example-no_header.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/002/example-no_header.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/002/example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/002/example.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/003/3.1-pd.Series和字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/003/3.1-pd.Series和字典.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/003/3.2-生成pd,Series.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/003/3.2-生成pd,Series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/003/3.3-将Series添加到DataFrame.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/003/3.3-将Series添加到DataFrame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/004、005/Books.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/004、005/Books.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/004、005/Output.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/004、005/Output.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/004、005/自动填充.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/004、005/自动填充.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/006/6.1-计算列.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/006/6.1-计算列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/006/6.2-pd.Series.apply.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/006/6.2-pd.Series.apply.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/006/example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/006/example.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/007/7.1-多重排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/007/7.1-多重排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/007/example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/007/example.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/008/8.1-数据筛选与过滤.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/008/8.1-数据筛选与过滤.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/008/example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/008/example.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/009/9.1-柱状图（pandas）.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/009/9.1-柱状图（pandas）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/009/9.2-柱状图（matplotlib）.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/009/9.2-柱状图（matplotlib）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/009/example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/009/example.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/010/10.1-分组柱状图.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/010/10.1-分组柱状图.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/010/example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/010/example.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/011/11.1-叠加柱状图.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/011/11.1-叠加柱状图.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/011/example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/011/example.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/012/12.1-饼图.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/012/12.1-饼图.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/012/example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/012/example.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/013/13.1-折线图和叠加区域图.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/013/13.1-折线图和叠加区域图.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/013/example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/013/example.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/014、015/14.1-散点图.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/014、015/14.1-散点图.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/014、015/15.1-直方图.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/014、015/15.1-直方图.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/014、015/15.2-密度图.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/014、015/15.2-密度图.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/014、015/15.3-相关性.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/014、015/15.3-相关性.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/014、015/home_data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/014、015/home_data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/016/16.1-多表联立（merge）.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/016/16.1-多表联立（merge）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/016/16.2-多表联立（join）.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/016/16.2-多表联立（join）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/016/Student_Score.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/016/Student_Score.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/017/17.1-数据校验.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/017/17.1-数据校验.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/017/Students.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/017/Students.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/018/18.1-数据分列.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/018/18.1-数据分列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/018/Employees.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/018/Employees.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/019/19.1-平均分、总分.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/019/19.1-平均分、总分.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/019/Students.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/019/Students.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/020/20.1-数据去重.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/020/20.1-数据去重.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/020/20.2-找出重复数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/020/20.2-找出重复数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/020/Students_Duplicates.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/020/Students_Duplicates.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/021/21.1-旋转数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/021/21.1-旋转数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/021/Videos.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/021/Videos.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/022/22.1-读取csv文件中的数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/022/22.1-读取csv文件中的数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/022/22.2-读取tsv文件中的数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/022/22.2-读取tsv文件中的数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/022/22.3-读取txt文件中的数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/022/22.3-读取txt文件中的数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/022/Students.csv" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/022/Students.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/022/Students.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/022/Students.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/022/Students.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/022/Students.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/023/23.1-数据透视表.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/023/23.1-数据透视表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/023/Orders.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/023/Orders.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/024/24.1-线性回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/024/24.1-线性回归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/024/Sales.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/024/Sales.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/025、026/Students.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/025、026/Students.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/025、026/条件格式.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/025、026/条件格式.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/027/27.1-行追加内容（已有内容）.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/027/27.1-行追加内容（已有内容）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/027/27.2-行追加内容（新内容）.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/027/27.2-行追加内容（新内容）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/027/27.3-行修改内容.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/027/27.3-行修改内容.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/027/27.4-行插入内容.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/027/27.4-行插入内容.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/027/27.5-行删除内容.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/027/27.5-行删除内容.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/027/27.6-行附条件删除.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/027/27.6-行附条件删除.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/027/Students.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/027/Students.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/028/28.1-列合并内容.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/028/28.1-列合并内容.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/028/28.2-列追加内容.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/028/28.2-列追加内容.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/028/28.3-列删除内容.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/028/28.3-列删除内容.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/028/28.4-列插入内容.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/028/28.4-列插入内容.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/028/28.5-列修改列名.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/028/28.5-列修改列名.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/028/28.6-列附条件删除.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/028/28.6-列附条件删除.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/028/Students.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/028/Students.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/029/29.1-链接SQL.Server数据库.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/029/29.1-链接SQL.Server数据库.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/030/30.1-复杂计算列.py" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/030/30.1-复杂计算列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/030/Rectangles.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/030/Rectangles.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasVersusExcel-Code/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1、Python自动化办公--Pandas玩转Excel（全30集）/说明.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +141,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,6 +152,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workplace\code\github\awesome-python-framework\3、给非程序员的Python入门课，0基础适用" />
       <recent name="D:\workplace\code\github\awesome-python-framework\5、Python招聘岗位信息聚合系统（拥有爬虫爬取、数据分析、可视化、互动等功能）\WorkAggregation-master" />
       <recent name="D:\workplace\code\github\awesome-python-framework\3、用Python实现一个商场管理系统(附源码)" />
       <recent name="D:\workplace\code\github\awesome-python-framework\2、Python+Django实现基于人脸识别的门禁管理系统【源码】" />
@@ -76,6 +177,7 @@
       <workItem from="1665918278895" duration="42000" />
       <workItem from="1665936640236" duration="32000" />
       <workItem from="1665937811579" duration="1167000" />
+      <workItem from="1665988105086" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="add 合同系统">
       <created>1665820989225</created>
@@ -172,10 +274,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="delete wrong course" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1902" y="-245" key="CommitChangelistDialog2" timestamp="1665940365437">
+    <state x="-1902" y="-245" key="CommitChangelistDialog2" timestamp="1665988454433">
       <screen x="-1920" y="-245" width="1920" height="1032" />
     </state>
-    <state x="-1902" y="-245" key="CommitChangelistDialog2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665940365437" />
+    <state x="-1902" y="-245" key="CommitChangelistDialog2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665988454433" />
     <state x="14" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1665880479620" />
     <state x="147" y="64" key="DiffContextDialog" timestamp="1665820747738">
       <screen x="0" y="0" width="1536" height="816" />
