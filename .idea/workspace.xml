@@ -187,7 +187,7 @@
       <workItem from="1665988105086" duration="2059000" />
       <workItem from="1666065627397" duration="714000" />
       <workItem from="1666080686793" duration="543000" />
-      <workItem from="1666081256460" duration="792000" />
+      <workItem from="1666081256460" duration="1753000" />
     </task>
     <task id="LOCAL-00001" summary="add 合同系统">
       <created>1665820989225</created>
@@ -287,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666081507697</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="fix 7、用 Python 写了一个电子考勤系统！">
+      <created>1666082061534</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666082061534</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,13 +327,14 @@
     <MESSAGE value="add 软件的百度云" />
     <MESSAGE value="fix 软件的百度云" />
     <MESSAGE value="add 7、用 Python 写了一个电子考勤系统！" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 7、用 Python 写了一个电子考勤系统！" />
+    <MESSAGE value="fix 7、用 Python 写了一个电子考勤系统！" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix 7、用 Python 写了一个电子考勤系统！" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1902" y="-245" key="CommitChangelistDialog2" timestamp="1666081506821">
+    <state x="-1902" y="-245" key="CommitChangelistDialog2" timestamp="1666082060911">
       <screen x="-1920" y="-245" width="1920" height="1032" />
     </state>
-    <state x="-1902" y="-245" key="CommitChangelistDialog2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1666081506821" />
+    <state x="-1902" y="-245" key="CommitChangelistDialog2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1666082060911" />
     <state x="14" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1665880479620" />
     <state x="147" y="64" key="DiffContextDialog" timestamp="1665820747738">
       <screen x="0" y="0" width="1536" height="816" />
@@ -356,10 +364,10 @@
       <screen x="-1920" y="-245" width="1920" height="1032" />
     </state>
     <state x="-1260" y="-24" key="MultipleFileMergeDialog/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1666065675182" />
-    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2" timestamp="1666081510315">
+    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2" timestamp="1666082062963">
       <screen x="-1920" y="-245" width="1920" height="1032" />
     </state>
-    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1666081510315" />
+    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1666082062963" />
     <state x="361" y="122" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1665880484336" />
     <state x="366" y="92" width="803" height="632" key="find.popup" timestamp="1665820811965">
       <screen x="0" y="0" width="1536" height="816" />

@@ -3,7 +3,19 @@
 你好，这里是程序员晚枫，2022年10月，国庆假期开始，我着手整理100个Python实战项目，希望对你有帮助。
 
 
-# 项目列表
+# 一、Python交流群
+
+如果你在项目中遇到问题，需要一个Python交流环境，可以点击加入下方的Python交流群：和**同学们**交流~
+
+🏠[Python交流群，点我加入](http://www.python4office.cn/wechat-group/)
+<!-- more -->
+
+
+
+# 二、Python实战项目
+
+
+## 0、综合应用
 
 以下列举的是GitHub代码地址，请打不开的同学，直接查看国内仓库👉[Gitee](https://gitee.com/CoderWanFeng/awesome-python-framework/tree/project/)
 
@@ -19,6 +31,81 @@
 
 
 
-# 读者交流群👇
+## 1、自动化办公项目
 
+| 序号 | 项目介绍       | 代码地址 |
+| ---- | -------------- | -------- |
+| 1    | ❤[官网发布：python-office库：专为Python自动化办公而生，一行代码提高办公效率](https://www.python-office.com/video/video.html) | [源码](https://github.com/CoderWanFeng/python-office)     |
+| 2    | [Python自动化办公实战：实现报表自动化和自动发送到目的邮箱](https://mp.weixin.qq.com/s/RfG502Hez7UttfHMndc4eA) | [源码](https://mp.weixin.qq.com/s/RfG502Hez7UttfHMndc4eA)     |
+
+## 2、爬虫项目
+
+| 序号 | 项目介绍       |
+| ---- | -------------- |
+| 1    | [逆天！5行Python代码爬取3000+ 上市公司的信息，我发现了股市的套路...](https://mp.weixin.qq.com/s/bJa_PHo2ijgzRVNUgU5F1w) | 
+| 2    | [行Python代码下载图片，百度看了都害怕，适合小白](https://mp.weixin.qq.com/s/P6pRm1VX8bGYepC8O4Bt4Q) |
+
+
+
+
+## 3、数据分析项目
+
+| 序号 | 项目介绍       |
+| ---- | -------------- |
+| 1    |  [用Python爬了我的微信好友，他们是这样的...](https://mp.weixin.qq.com/s/-vsy85RdWyJL01yOGkZk9Q)| 
+
+## 4、实用工具
+
+| 序号 | 项目介绍       |
+| ---- | -------------- |
+| 1    |  [语音转文字](https://mp.weixin.qq.com/s/Ug_IFSEQBzDshe7KuFckTQ) | 
+| 2    |  [Python可以下载B站视频了？1行命令搞定，悄悄用](https://mp.weixin.qq.com/s/NaDDcn-X8aruVHBvWmHXUQ) | 
+| 3    |  [我有一个500万的梦想，程序员是怎么买彩票的？](https://mp.weixin.qq.com/s/Q6JgW06hMUSik0DqGD0rOA) | 
+| 4    |  [使用click创建完美的Python命令行程序！](https://mp.weixin.qq.com/s/63TeUrT_b4HaizlzkEoxlA) | 
+
+
+
+## 5、机器人项目
+
+| 序号 | 项目介绍       |
+| ---- | -------------- |
+| 1    |  🔥[微信机器人项目发布](https://www.bilibili.com/video/BV1Xa411u7yU) | 
+| 2    |  [002-发消息](https://www.bilibili.com/video/BV1Jt4y1j7F1) | 
+| 3    |  [003-发文件](https://www.bilibili.com/video/BV1te4y1y7Ro) | 
+| 4    |  [004-根据关键词，自动回复](https://www.bilibili.com/video/BV1fV4y1M7ju) | 
+| 5    |   [⌚005-24小时，后台运行](https://www.bilibili.com/video/BV11L411L7oi) | 
+
+
+## 6、游戏项目
+
+
+| 序号 | 项目介绍       |
+| ---- | -------------- |
+| 1    | [玩过自己开发的贪吃蛇吗？点这里，教你用Python写一个贪吃蛇小游戏！（附源代码）](https://mp.weixin.qq.com/s/Cd1iDcZq9nKxk-mV8phTpA) | 
+| 2    | [Python3+pygame实现的90坦克大战 代码完整 有演示效果](https://mp.weixin.qq.com/s/079HcgEuKnBbxKPedLg72Q) |
+
+
+
+
+## 7、开源项目
+
+| 序号 | 项目介绍       |
+| ---- | -------------- |
+| 1    | [3年开发了5个私人项目：自动化办公、网站、机器人、小程序...免费开源，拿走不谢~](https://mp.weixin.qq.com/s/ndZC6m9CDepZ8PhREylfiw) | 
+| 2    | [开源中国推荐：python-office自动化办公，每个功能只需一行代码，做到了真正的开箱即用。](https://mp.weixin.qq.com/s/d2m7xYCLXF8QUlr-5sSuPA) |
+
+
+
+
+
+## 8、网站项目
+
+
+| 序号 | 项目介绍       |
+| ---- | -------------- |
+| 1    | [给女朋友开发一个网站](https://www.bilibili.com/video/BV16M4y1c7GE) | 
+| 2    | [阿里云 + WordPress，自动生成个人网站](https://mp.weixin.qq.com/s/4O1DiFu5-PGG0UuJz3FI1Q) |
+
+
+# 三、联系方式
 ![](https://www.python-office.com/api/img-cdn/group/0816.jpg)
