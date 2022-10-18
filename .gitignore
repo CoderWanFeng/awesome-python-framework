@@ -1,7 +1,6 @@
 
 # demo
 script/
-.idea/
 .gitee/
 node_modules
 .cache
@@ -10,5 +9,7 @@ venv/
 build/
 dist/
 *.egg-info
+.idea/
+
 
 __pycache__
