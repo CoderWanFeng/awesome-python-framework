@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a40de8a-d9be-4a5b-9465-0f5dbf455ed9" name="Default Changelist" comment="" />
+    <list default="true" id="8a40de8a-d9be-4a5b-9465-0f5dbf455ed9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +59,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workplace\code\github\awesome-python-framework\7\code" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\workplace\code\github\awesome-python-framework\3、给非程序员的Python入门课，0基础适用" />
       <recent name="D:\workplace\code\github\awesome-python-framework\5、Python招聘岗位信息聚合系统（拥有爬虫爬取、数据分析、可视化、互动等功能）\WorkAggregation-master" />
@@ -63,6 +69,102 @@
       <recent name="D:\workplace\code\github\awesome-python-framework\2、Python+Django实现基于人脸识别的门禁管理系统【源码】" />
       <recent name="D:\workplace\code\github\awesome-python-framework\1、合同系统" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.stu_attendance (1)">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="awesome-python-framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stu_attendance (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="awesome-python-framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7、用 Python 写了一个电子考勤系统！/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7、用 Python 写了一个电子考勤系统！/code/stu_attendance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stu_attendance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="awesome-python-framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\workplace\code\github\awesome-python-framework\7\code\stu_attendance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stu_attendance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="awesome-python-framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\workplace\code\github\awesome-python-framework\7\code\stu_attendance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.stu_attendance (1)" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -84,6 +186,8 @@
       <workItem from="1665937811579" duration="1167000" />
       <workItem from="1665988105086" duration="2059000" />
       <workItem from="1666065627397" duration="714000" />
+      <workItem from="1666080686793" duration="543000" />
+      <workItem from="1666081256460" duration="792000" />
     </task>
     <task id="LOCAL-00001" summary="add 合同系统">
       <created>1665820989225</created>
@@ -176,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665989852197</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add 7、用 Python 写了一个电子考勤系统！">
+      <created>1666081507697</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666081507697</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,13 +319,14 @@
     <MESSAGE value="add 给非程序员的Python入门课，0基础适用" />
     <MESSAGE value="add 软件的百度云" />
     <MESSAGE value="fix 软件的百度云" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix 软件的百度云" />
+    <MESSAGE value="add 7、用 Python 写了一个电子考勤系统！" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 7、用 Python 写了一个电子考勤系统！" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1902" y="-245" key="CommitChangelistDialog2" timestamp="1666026946833">
+    <state x="-1902" y="-245" key="CommitChangelistDialog2" timestamp="1666081506821">
       <screen x="-1920" y="-245" width="1920" height="1032" />
     </state>
-    <state x="-1902" y="-245" key="CommitChangelistDialog2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1666026946833" />
+    <state x="-1902" y="-245" key="CommitChangelistDialog2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1666081506821" />
     <state x="14" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1665880479620" />
     <state x="147" y="64" key="DiffContextDialog" timestamp="1665820747738">
       <screen x="0" y="0" width="1536" height="816" />
@@ -224,14 +336,30 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1665845046287" />
+    <state width="1877" height="387" key="GridCell.Tab.0.bottom" timestamp="1666081773456">
+      <screen x="-1920" y="-245" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="387" key="GridCell.Tab.0.bottom/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1666081773456" />
+    <state width="1877" height="387" key="GridCell.Tab.0.center" timestamp="1666081773456">
+      <screen x="-1920" y="-245" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="387" key="GridCell.Tab.0.center/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1666081773456" />
+    <state width="1877" height="387" key="GridCell.Tab.0.left" timestamp="1666081773454">
+      <screen x="-1920" y="-245" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="387" key="GridCell.Tab.0.left/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1666081773454" />
+    <state width="1877" height="387" key="GridCell.Tab.0.right" timestamp="1666081773456">
+      <screen x="-1920" y="-245" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="387" key="GridCell.Tab.0.right/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1666081773456" />
     <state x="-1260" y="-24" key="MultipleFileMergeDialog" timestamp="1666065675182">
       <screen x="-1920" y="-245" width="1920" height="1032" />
     </state>
     <state x="-1260" y="-24" key="MultipleFileMergeDialog/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1666065675182" />
-    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2" timestamp="1666026966564">
+    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2" timestamp="1666081510315">
       <screen x="-1920" y="-245" width="1920" height="1032" />
     </state>
-    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1666026966564" />
+    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1666081510315" />
     <state x="361" y="122" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1665880484336" />
     <state x="366" y="92" width="803" height="632" key="find.popup" timestamp="1665820811965">
       <screen x="0" y="0" width="1536" height="816" />
@@ -245,5 +373,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="406" y="181" key="git4idea.merge.GitPullDialog/0.0.1536.816@0.0.1536.816" timestamp="1665820481815" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/awesome_python_framework$main.coverage" NAME="main Coverage Results" MODIFIED="1666080882946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7" />
+    <SUITE FILE_PATH="coverage/awesome_python_framework$stu_attendance__1_.coverage" NAME="stu_attendance (1) Coverage Results" MODIFIED="1666081424732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7、用 Python 写了一个电子考勤系统！/code" />
+    <SUITE FILE_PATH="coverage/awesome_python_framework$service.coverage" NAME="service Coverage Results" MODIFIED="1666080907321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7" />
   </component>
 </project>
