@@ -1,3 +1,5 @@
+# pip install python-office -i https://pypi.tuna.tsinghua.edu.cn/simple  -U
+
 import office
 
 office.excel.fake2excel(columns=['name', 'text'], rows=20)
