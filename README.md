@@ -28,7 +28,7 @@
 | 5    | [爬取招聘网站](https://mp.weixin.qq.com/s/uTVJDjYX6kR-bZIHCU4EIw) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/5、Python招聘岗位信息聚合系统（拥有爬虫爬取、数据分析、可视化、互动等功能）)     |
 | 6    | [疫情管理的医疗信息系统](https://mp.weixin.qq.com/s/DLF7lnsHhdwmwltf7bsC4g) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/6%E3%80%81Python%E5%AE%9E%E7%8E%B0%E7%96%AB%E6%83%85%E5%8C%BB%E7%96%97%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F(%E9%99%84%E6%BA%90%E7%A0%81)/)     |
 | 7    | [电子考勤系统](https://mp.weixin.qq.com/s/rHpX3hew-bfQlPerAWwihg) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/7%E3%80%81%E7%94%A8%20Python%20%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%AA%E7%94%B5%E5%AD%90%E8%80%83%E5%8B%A4%E7%B3%BB%E7%BB%9F%EF%BC%81)     |
-| 8    | [文献数据挖掘系统](https://mp.weixin.qq.com/s/rHpX3hew-bfQlPerAWwihg) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/8、文献数据挖掘系统(附源码)/)     |
+| 8    | [文献数据挖掘系统](https://mp.weixin.qq.com/s/LG_r0wwjXjxUU6XQ59ynvg) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/8、文献数据挖掘系统(附源码)/)     |
 
 
 
