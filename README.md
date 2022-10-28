@@ -31,6 +31,7 @@
 | 8    | [文献数据挖掘系统](https://mp.weixin.qq.com/s/LG_r0wwjXjxUU6XQ59ynvg) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/8、文献数据挖掘系统(附源码)/)     |
 | 9    | [用了这个工具，导出了女朋友的聊天记录！我发现了什么？](https://mp.weixin.qq.com/s/jcEy6ztNtXXWf2VnpEq08w) | [源码](https://gitee.com/CoderWanFeng/wechat_analysis)     |
 | 10    | [用Python画了个月饼](https://mp.weixin.qq.com/s/CKSBzrj0yQuL830S2iROcg) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/10、用Python画一个月饼)     |
+| 11    | [你绿了吗？用Python判断基金是否值得购买，网友：早知道就好了！](https://mp.weixin.qq.com/s/5ThRmiXpiueRg14bCH6vZQ) | [源码](https://mp.weixin.qq.com/s/5ThRmiXpiueRg14bCH6vZQ)     |
 
 
 
@@ -111,4 +112,4 @@
 
 
 # 三、联系方式
-![](https://www.python-office.com/api/img-cdn/group/0816.jpg)
+![](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/0816.jpg)

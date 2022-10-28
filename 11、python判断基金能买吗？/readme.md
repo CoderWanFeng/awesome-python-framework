@@ -1,0 +1,1 @@
+源码链接，点我直达：[你绿了吗？用Python判断基金是否值得购买，网友：早知道就好了！](https://mp.weixin.qq.com/s/5ThRmiXpiueRg14bCH6vZQ) 
