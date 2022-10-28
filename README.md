@@ -29,9 +29,9 @@
 | 6    | [疫情管理的医疗信息系统](https://mp.weixin.qq.com/s/DLF7lnsHhdwmwltf7bsC4g) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/6%E3%80%81Python%E5%AE%9E%E7%8E%B0%E7%96%AB%E6%83%85%E5%8C%BB%E7%96%97%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F(%E9%99%84%E6%BA%90%E7%A0%81)/)     |
 | 7    | [电子考勤系统](https://mp.weixin.qq.com/s/rHpX3hew-bfQlPerAWwihg) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/7%E3%80%81%E7%94%A8%20Python%20%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%AA%E7%94%B5%E5%AD%90%E8%80%83%E5%8B%A4%E7%B3%BB%E7%BB%9F%EF%BC%81)     |
 | 8    | [文献数据挖掘系统](https://mp.weixin.qq.com/s/LG_r0wwjXjxUU6XQ59ynvg) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/8、文献数据挖掘系统(附源码)/)     |
-| 9    | [用了这个工具，导出了女朋友的聊天记录！我发现了什么？](https://mp.weixin.qq.com/s/jcEy6ztNtXXWf2VnpEq08w) | [源码](https://gitee.com/CoderWanFeng/wechat_analysis)     |
+| 9    | [用Python导出了女朋友的聊天记录！我发现了什么？](https://mp.weixin.qq.com/s/jcEy6ztNtXXWf2VnpEq08w) | [源码](https://gitee.com/CoderWanFeng/wechat_analysis)     |
 | 10    | [用Python画了个月饼](https://mp.weixin.qq.com/s/CKSBzrj0yQuL830S2iROcg) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/10、用Python画一个月饼)     |
-| 11    | [你绿了吗？用Python判断基金是否值得购买，网友：早知道就好了！](https://mp.weixin.qq.com/s/5ThRmiXpiueRg14bCH6vZQ) | [源码](https://mp.weixin.qq.com/s/5ThRmiXpiueRg14bCH6vZQ)     |
+| 11    | [用Python判断基金是否值得购买](https://mp.weixin.qq.com/s/5ThRmiXpiueRg14bCH6vZQ) | [源码](https://mp.weixin.qq.com/s/5ThRmiXpiueRg14bCH6vZQ)     |
 
 
 
