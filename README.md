@@ -32,6 +32,7 @@
 | 9    | [用Python导出了女朋友的聊天记录！我发现了什么？](https://mp.weixin.qq.com/s/jcEy6ztNtXXWf2VnpEq08w) | [源码](https://gitee.com/CoderWanFeng/wechat_analysis)     |
 | 10    | [用Python画了个月饼](https://mp.weixin.qq.com/s/CKSBzrj0yQuL830S2iROcg) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/10、用Python画一个月饼)     |
 | 11    | [用Python判断基金是否值得购买](https://mp.weixin.qq.com/s/5ThRmiXpiueRg14bCH6vZQ) | [源码](https://mp.weixin.qq.com/s/5ThRmiXpiueRg14bCH6vZQ)     |
+| 12    | [用Python斗地主](https://mp.weixin.qq.com/s/-Eew3SYaJppTe_gn6yqMNg) | [源码](https://mp.weixin.qq.com/s/-Eew3SYaJppTe_gn6yqMNg)     |
 
 
 
