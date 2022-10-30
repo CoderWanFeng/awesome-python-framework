@@ -1,3 +1,5 @@
+# 公众号：程序员晚枫
+# 60套Python视频教程：https://mp.weixin.qq.com/s/sO6hbVqORy7JpN-5TlaKvQ
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 

@@ -35,7 +35,7 @@
 | 12    | [用Python斗地主](https://mp.weixin.qq.com/s/-Eew3SYaJppTe_gn6yqMNg) | [源码](https://mp.weixin.qq.com/s/-Eew3SYaJppTe_gn6yqMNg)     |
 | 13    | [抢茅台](https://mp.weixin.qq.com/s/-Eew3SYaJppTe_gn6yqMNg) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/13%E3%80%81python%E6%8A%A2%E8%8C%85%E5%8F%B0)     |
 | 14    | [微博爬虫](https://mp.weixin.qq.com/s/z9ToYLZSbDxOOKgdxd2Kww) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/14%E3%80%81%E5%BE%AE%E5%8D%9A%E7%88%AC%E8%99%AB)     |
-| 15    | [PyQT5写了个可视化天气查询软件](https://mp.weixin.qq.com/s/-Eew3SYaJppTe_gn6yqMNg) | [源码](https://mp.weixin.qq.com/s/-Eew3SYaJppTe_gn6yqMNg)     |
+| 15    | [PyQT5写了个可视化天气查询软件](https://mp.weixin.qq.com/s/xbHzSs5gP89mEuqTSNv2Dg) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/15%E3%80%81PyQT5%E5%86%99%E4%BA%86%E4%B8%AA%E5%8F%AF%E8%A7%86%E5%8C%96%E5%A4%A9%E6%B0%94%E6%9F%A5%E8%AF%A2%E8%BD%AF%E4%BB%B6)     |
 
 
 
