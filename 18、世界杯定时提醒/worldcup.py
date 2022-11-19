@@ -1,3 +1,8 @@
+"""
+获取源码，关注公众号：程序员晚枫，后台回复：世界杯
+24小时自动获取~
+"""
+
 import webbrowser
 from win10toast import *
 import office
