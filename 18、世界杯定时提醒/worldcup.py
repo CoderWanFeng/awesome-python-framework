@@ -49,4 +49,4 @@ def sche_notice(notice_time, url='https://www.baidu.com/s?ie=UTF-8&wd=%E4%B8%96%
 
 
 if __name__ == '__main__':
-    sche_notice(notice_time='22:02:15')
+    sche_notice(notice_time='13:10:00',url='www.python-office.com')

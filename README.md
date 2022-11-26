@@ -1,3 +1,37 @@
+<p align="center">
+    <a target="_blank" href='https://url.cn/Z4lzPLaF'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F1040x100-tencent.jpg" width="100%"/>
+    </a>   
+</p>
+<p align="center">
+    <a target="_blank" href='https://github.com/CoderWanFeng/python-office'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/github-nav.jpg" alt="github license"/>
+    </a>   
+</p>
+<p align="center">
+	👉 <a target="_blank" href="https://www.python-office.com/">项目官网：https://www.python-office.com/</a> 👈
+</p>
+<p align="center">
+	👉 <a target="_blank" href="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/python-office.jpg">本开源项目的交流群</a> 👈
+</p>
+<p align="center" name="gitee">
+  <a target="_blank" href='https://github.com/CoderWanFeng/python-office'>
+    <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.svg?style=social" alt="github star"/>
+    </a>
+	<a target="_blank" href='https://gitee.com/CoderWanFeng/python-office/'>
+		<img src='https://gitee.com/CoderWanFeng/python-office/badge/star.svg?theme=dark' alt='gitee star'/>
+	</a>
+  	<a href="https://mp.weixin.qq.com/s/Jf_EVdKlVnHhK68fW5OA6A">
+	<img src="https://img.shields.io/badge/QQ-1090738447-orange"/>
+  </a>
+    	<a href="https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w">
+	<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E4%BA%A4%E6%B5%81%E7%BE%A4-brightgreen"/>
+  </a>
+  
+</p>
+
+
+
 # 100个Python实战项目
 
 你好，这里是程序员晚枫，2022年10月，国庆假期开始，我着手整理100个Python实战项目，希望对你有帮助。
@@ -21,8 +55,8 @@
 
 | 序号 | 项目介绍       | 代码地址 |
 | ---- | -------------- | -------- |
-| 1    | [合同和财务系统](https://mp.weixin.qq.com/s/7Cx9f1Re9tbJVajtNVmsVA) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/1%E3%80%81%E5%90%88%E5%90%8C%E7%B3%BB%E7%BB%9F)     |
-| 2    | [人脸门禁系统](https://mp.weixin.qq.com/s/98X3nl-elyi7MYsU_uCeqA) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/2%E3%80%81Python%2BDjango%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8E%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%9A%84%E9%97%A8%E7%A6%81%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E3%80%90%E6%BA%90%E7%A0%81%E3%80%91)     |
+| 1    | [合同和财务系统](https://mp.weixin.qq.com/s/7Cx9f1Re9tbJVajtNVmsVA) | [源码](http://python4office.cn/py-pro-100/pro-finance-sys)     |
+| 2    | [人脸门禁系统](https://mp.weixin.qq.com/s/98X3nl-elyi7MYsU_uCeqA) | [源码](http://python4office.cn/py-pro-100/pro-aiface-sys)     |
 | 3    | [商场管理系统](https://mp.weixin.qq.com/s/0FR4o2ddPe-9C2ijlnTuAg) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/3、用Python实现一个商场管理系统(附源码))     |
 | 4    | [报表自动化 + 邮件自动发送](https://mp.weixin.qq.com/s/RfG502Hez7UttfHMndc4eA) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/4%E3%80%81Python%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC%E5%B0%8F%E7%A8%8B%E5%BA%8F%EF%BC%9A%E5%AE%9E%E7%8E%B0%E6%8A%A5%E8%A1%A8%E8%87%AA%E5%8A%A8%E5%8C%96%E5%92%8C%E8%87%AA%E5%8A%A8%E5%8F%91%E9%80%81%E5%88%B0%E7%9B%AE%E7%9A%84%E9%82%AE%E7%AE%B1)     |
 | 5    | [爬取招聘网站](https://mp.weixin.qq.com/s/uTVJDjYX6kR-bZIHCU4EIw) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/5、Python招聘岗位信息聚合系统（拥有爬虫爬取、数据分析、可视化、互动等功能）)     |
@@ -37,7 +71,9 @@
 | 14    | [微博爬虫](https://mp.weixin.qq.com/s/z9ToYLZSbDxOOKgdxd2Kww) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/14%E3%80%81%E5%BE%AE%E5%8D%9A%E7%88%AC%E8%99%AB)     |
 | 15    | [PyQT5写了个可视化天气查询软件](https://mp.weixin.qq.com/s/xbHzSs5gP89mEuqTSNv2Dg) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/15%E3%80%81PyQT5%E5%86%99%E4%BA%86%E4%B8%AA%E5%8F%AF%E8%A7%86%E5%8C%96%E5%A4%A9%E6%B0%94%E6%9F%A5%E8%AF%A2%E8%BD%AF%E4%BB%B6)     |
 | 16    | [用Python写了个五子棋游戏](https://mp.weixin.qq.com/s/xbHzSs5gP89mEuqTSNv2Dg) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/16、用Python写了个五子棋游戏)     |
-| 17    | [《点燃你，温暖我》爱心代码](https://mp.weixin.qq.com/s/W9nubG-X6DM9z1VTaQrqcg) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/blob/project/17%E3%80%81%E3%80%8A%E7%82%B9%E7%87%83%E4%BD%A0%EF%BC%8C%E6%B8%A9%E6%9A%96%E6%88%91%E3%80%8B%E7%88%B1%E5%BF%83%E4%BB%A3%E7%A0%81/main.py)     |
+| 17    | [《点燃你，温暖我》爱心代码](https://mp.weixin.qq.com/s/W9nubG-X6DM9z1VTaQrqcg) | [源码](http://python4office.cn/py-pro-100/pro-heart-soap)     |
+| 18    | [世界杯定时提醒](https://www.bilibili.com/video/BV1nv4y1U79r) | [源码](http://python4office.cn/py-pro-100/world-cup-video01/)     |
+| 19    | [预测世界杯冠军](http://www.python4office.cn/article/cup-ai-1-meixi/) | [源码](http://www.python4office.cn/cup-ai-1/)     |
 
 
 
