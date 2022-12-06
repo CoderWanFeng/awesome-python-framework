@@ -76,6 +76,7 @@
 | 19    | [预测世界杯冠军](http://www.python4office.cn/article/cup-ai-1-meixi/) | [源码](http://www.python4office.cn/cup-ai-1/)     |
 | 20    | [表白网站](https://www.bilibili.com/video/BV1Gd4y147gA/) | [源码](https://gitee.com/CoderWanFeng/awesome-python-framework/tree/project/20、表白网站)     |
 | 21    | [写了个网易云](http://python4office.cn/py-pro-100/cloud-music-py/) | [源码](http://python4office.cn/py-pro-100/cloud-music-py/)     |
+| 22    | [疫苗管理系统](https://mp.weixin.qq.com/s/c9Y8vFcDAR3o-O7IDJksfQ) | [源码](https://mp.weixin.qq.com/s/c9Y8vFcDAR3o-O7IDJksfQ)     |
 
 
 
