@@ -78,6 +78,7 @@
 | 21    | [写了个网易云](http://python4office.cn/py-pro-100/cloud-music-py/) | [源码](http://python4office.cn/py-pro-100/cloud-music-py/)     |
 | 22    | [疫苗管理系统](https://mp.weixin.qq.com/s/c9Y8vFcDAR3o-O7IDJksfQ) | [源码](https://mp.weixin.qq.com/s/c9Y8vFcDAR3o-O7IDJksfQ)     |
 | 23    | [京东电商运营数据分析](https://mp.weixin.qq.com/s/9Vbk47f5IeeJPbEICpVAIg) | [源码](https://mp.weixin.qq.com/s/9Vbk47f5IeeJPbEICpVAIg)     |
+| 24    | [动态数据可视化](https://mp.weixin.qq.com/s/9Vbk47f5IeeJPbEICpVAIg) | [源码](https://mp.weixin.qq.com/s/9Vbk47f5IeeJPbEICpVAIg)     |
 
 
 
