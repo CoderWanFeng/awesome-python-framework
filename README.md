@@ -77,8 +77,12 @@
 | 20    | [表白网站](https://www.bilibili.com/video/BV1Gd4y147gA/) | [源码](https://gitee.com/CoderWanFeng/awesome-python-framework/tree/project/20、表白网站)     |
 | 21    | [写了个网易云](http://python4office.cn/py-pro-100/cloud-music-py/) | [源码](http://python4office.cn/py-pro-100/cloud-music-py/)     |
 | 22    | [疫苗管理系统](https://mp.weixin.qq.com/s/c9Y8vFcDAR3o-O7IDJksfQ) | [源码](https://mp.weixin.qq.com/s/c9Y8vFcDAR3o-O7IDJksfQ)     |
-| 23    | [京东电商运营数据分析](https://mp.weixin.qq.com/s/9Vbk47f5IeeJPbEICpVAIg) | [源码](https://mp.weixin.qq.com/s/9Vbk47f5IeeJPbEICpVAIg)     |
+| 23    | [京东电商运营数据分析](https://mp.weixin.qq.com/s/9Vbk47f5IeeJPbEICpVAIg) | [源码](https://mp.weixin.qq.com/s/9Vbk47f5IeeJPbEICpVAIg)      |
+<<<<<<< HEAD
 | 24    | [动态数据可视化](https://mp.weixin.qq.com/s/q85F_DLM8P2t6ZdxDlkv-A) | [源码](https://github.com/CoderWanFeng/awesome-python-framework/tree/project/24%E3%80%81%E4%BD%BF%E7%94%A8TinyDB%E5%92%8Cpyecharts%EF%BC%8C%E5%AE%9E%E7%8E%B0%E5%8A%A8%E6%80%81%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96)     |
+=======
+| 24    | [动态数据可视化](https://mp.weixin.qq.com/s/9Vbk47f5IeeJPbEICpVAIg) | [源码](https://mp.weixin.qq.com/s/9Vbk47f5IeeJPbEICpVAIg)     |
+>>>>>>> ee47617 (add 24、使用TinyDB和pyecharts，实现动态数据可视化)
 
 
 
