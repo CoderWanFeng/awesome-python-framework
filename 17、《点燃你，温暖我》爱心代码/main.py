@@ -1,3 +1,11 @@
+# -*- coding: UTF-8 -*-
+'''
+@Author  ：程序员晚枫，B站/抖音/微博/小红书/公众号
+@WeChat     ：CoderWanFeng
+@Blog      ：www.python-office.com
+@Date    ：2022/12/28 21:03
+@Description     ：
+'''
 """
 如果报错：ModuleNotFoundError: No module named 'tkinter'
 请按照视频说明进行操作：https://www.bilibili.com/video/BV18g411h7jJ
