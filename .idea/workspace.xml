@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a40de8a-d9be-4a5b-9465-0f5dbf455ed9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/code/4、练习1：自动生成excel数据.py" afterDir="false" />
+    <list default="true" id="f4a18e33-9c8f-4d7b-a5c0-2a421a0c2d7a" name="Default Changelist" comment="fix 软件的百度云">
+      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/code/5、基本数据操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/code/6、计算器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/docs/3、基本数据操作.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/awesome-python-framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/awesome-python-framework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/code/2-setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/code/3、python&amp;pycharm，下载和安装.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/docs/1、内容大纲.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/docs/1、内容大纲.xmind" afterDir="false" />
     </list>
+    <list id="4e602d90-616a-4253-a76d-2b7480e9c198" name="update 24、使用TinyDB和pyecharts，实现动态数据可视化" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -26,33 +37,24 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="project" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2FzODIftP1w5p83Rl8CNi3Bhxuo" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\workplace\code\github\awesome-python-framework\3、给非程序员的Python入门课，0基础适用" />
@@ -61,6 +63,56 @@
       <recent name="D:\workplace\code\github\awesome-python-framework\2、Python+Django实现基于人脸识别的门禁管理系统【源码】" />
       <recent name="D:\workplace\code\github\awesome-python-framework\1、合同系统" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.6、计算器">
+    <configuration name="5、基本数据操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="awesome-python-framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/code/5、基本数据操作.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6、计算器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="awesome-python-framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/code/6、计算器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.6、计算器" />
+        <item itemvalue="Python.5、基本数据操作" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -184,15 +236,14 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add 合同系统" />
     <MESSAGE value="add Python+Django实现基于人脸识别的门禁管理系统【源码】" />
     <MESSAGE value="add 3、用Python实现一个商场管理系统(附源码)" />
@@ -206,37 +257,5 @@
     <MESSAGE value="add 软件的百度云" />
     <MESSAGE value="fix 软件的百度云" />
     <option name="LAST_COMMIT_MESSAGE" value="fix 软件的百度云" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-1902" y="-245" key="CommitChangelistDialog2" timestamp="1665989851557">
-      <screen x="-1920" y="-245" width="1920" height="1032" />
-    </state>
-    <state x="-1902" y="-245" key="CommitChangelistDialog2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665989851557" />
-    <state x="14" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1665880479620" />
-    <state x="147" y="64" key="DiffContextDialog" timestamp="1665820747738">
-      <screen x="0" y="0" width="1536" height="816" />
-    </state>
-    <state x="147" y="64" key="DiffContextDialog/0.0.1536.816@0.0.1536.816" timestamp="1665820747738" />
-    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1665845046287">
-      <screen x="0" y="0" width="1536" height="816" />
-    </state>
-    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1665845046287" />
-    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2" timestamp="1665989855432">
-      <screen x="-1920" y="-245" width="1920" height="1032" />
-    </state>
-    <state x="-1469" y="-91" key="Vcs.Push.Dialog.v2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665989855432" />
-    <state x="361" y="122" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1665880484336" />
-    <state x="366" y="92" width="803" height="632" key="find.popup" timestamp="1665820811965">
-      <screen x="0" y="0" width="1536" height="816" />
-    </state>
-    <state x="366" y="92" width="803" height="632" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1665820811965" />
-    <state x="-1206" y="-100" key="git4idea.branch.GitSmartOperationDialog" timestamp="1665945928170">
-      <screen x="-1920" y="-245" width="1920" height="1032" />
-    </state>
-    <state x="-1206" y="-100" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665945928170" />
-    <state x="406" y="181" key="git4idea.merge.GitPullDialog" timestamp="1665820481815">
-      <screen x="0" y="0" width="1536" height="816" />
-    </state>
-    <state x="406" y="181" key="git4idea.merge.GitPullDialog/0.0.1536.816@0.0.1536.816" timestamp="1665820481815" />
   </component>
 </project>
