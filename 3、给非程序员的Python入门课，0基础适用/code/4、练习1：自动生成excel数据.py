@@ -1,4 +1,4 @@
-# pip install python-office -i https://pypi.tuna.tsinghua.edu.cn/simple  -U
+# pip install python-office -i https://mirrors.aliyun.com/pypi/simple/  -U
 
 import office
 

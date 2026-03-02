@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4a18e33-9c8f-4d7b-a5c0-2a421a0c2d7a" name="Default Changelist" comment="fix 软件的百度云">
-      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/code/5、基本数据操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/code/6、计算器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/docs/3、基本数据操作.xmind" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/awesome-python-framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/awesome-python-framework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f4a18e33-9c8f-4d7b-a5c0-2a421a0c2d7a" name="Default Changelist" comment="add 基本数据类型和运算：https://www.bilibili.com/video/BV18g411h7jJ/?p=5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/docs/1、内容大纲.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/3、给非程序员的Python入门课，0基础适用/docs/1、内容大纲.xmind" afterDir="false" />
     </list>
     <list id="4e602d90-616a-4253-a76d-2b7480e9c198" name="update 24、使用TinyDB和pyecharts，实现动态数据可视化" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +36,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2FzODIftP1w5p83Rl8CNi3Bhxuo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,7 +49,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true"
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/workplace/code/github/awesome-python-framework"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -114,6 +114,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -225,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665989852197</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add 基本数据类型和运算：https://www.bilibili.com/video/BV18g411h7jJ/?p=5">
+      <created>1672726505786</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1672726505786</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +264,7 @@
     <MESSAGE value="add 给非程序员的Python入门课，0基础适用" />
     <MESSAGE value="add 软件的百度云" />
     <MESSAGE value="fix 软件的百度云" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix 软件的百度云" />
+    <MESSAGE value="add 基本数据类型和运算：https://www.bilibili.com/video/BV18g411h7jJ/?p=5" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 基本数据类型和运算：https://www.bilibili.com/video/BV18g411h7jJ/?p=5" />
   </component>
 </project>
